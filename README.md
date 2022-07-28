@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rifatalici
-- 👀 I’m interested in .NET,HTML,CSS
+- 👀 I’m interested in JAVA,.NET,HTML,CSS
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/rifatalici/
